@@ -269,5 +269,5 @@ op.onshow(this.op);
 
 };
 
-var $buoop = $buoop||{};
+window.$buoop = window.$buoop || {};
 $buo($buoop);
